@@ -23,7 +23,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure Agents
 - Configure User/Customer
 - Configure SLA
-- 
+- Configure Help Topics (For users who create tickets)
 
 <h2>Configuration Steps</h2>
 
