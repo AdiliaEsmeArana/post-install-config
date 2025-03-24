@@ -50,15 +50,16 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/Ull5VsR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Roles are the permissions granted to Agents per Department that they have access to. To configure the roles for the agents in the osTicket system I made sure I was logged in as an Admin. 
-I then went into The admin panel> clicked "Agent" Panel> clicked "Roles". 
+Configuring Roles: Roles are the permissions granted to Agents per Department that they have access to. To configure the roles for the agents in the osTicket system I made sure I was logged in as an Admin. 
+I then went into The admin panel> clicked "Agent" tab> clicked "Roles". 
 This page shows 4 different roles with a set of permissions that can be checked/unchecked in association with a Department they have access to. 
-In this tutorial, I created an additional role named "Supreme Admin". I went into the permissions tab and checked all the boxes giving full access to this role. 
+In this tutorial, I created an additional role named "Supreme Admin". I went into the permissions tab and checked all the boxes, giving this role full access.
+ 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/lqMuYlF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/TsUxlb5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
