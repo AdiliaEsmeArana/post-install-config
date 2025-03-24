@@ -149,23 +149,16 @@ Configuring Users: To configure the Users in the osTicket system, I made sure I 
 <img src="https://i.imgur.com/T7P0YuO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configuring SLA: To configure the Agents in the osTicket system I made sure I was logged in as an Admin. 
-I then went into the admin panel>click “Manage” tab> click “SLA> click “Add New SLA Plan”” In this tutorial I will be creating 3 different SLAs. They will be as follows: Sev-A (Grace Period: 1 hour, Schedule: 24/7) Sev-B (Grace Period: 4 hours, Schedule: 24/7) Sev-C (Grace Period: 8 hours, Business Hours)
+Configuring SLA: SLAs will vary from company to company and are designed to provide a timeframe of when the help desk admin expects the tickets to be resolved/closed. To configure the SLA in the osTicket system I made sure I was logged in as an Admin. I then went into the admin panel>click “Manage” tab> click “SLA> click “Add New SLA Plan”” In this tutorial, I created 3 different SLAs. They are as follows: Sev-A (Grace Period: 1 hour, Schedule: 24/7) Sev-B (Grace Period: 4 hours, Schedule: 24/7) Sev-C (Grace Period: 8 hours, Business Hours)
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/SFrFNWh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0JZd443.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/SFrFNWh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Configuring Help Topics: Help Topics help streamline the end user's experience to ensure topics are correctly assigned and receive a fast response to each ticket made. The Help Topics also determine what Department the ticket is sent to, which agent will have access to the ticket, and what SLA is assigned to that ticket. To configure the Help Topics in the osTicket system I made sure I was logged in as an Admin. 
+I then went into the admin panel> click “Manage” tab> click “Help Topics” >click “Add New Help Topics” I created 4 help topics : Business Critical Outage, Personal Computer Issues, Equipment Request, Password Reset, Other. This final step concludes my tutorial. 
 </p>
 <br />
