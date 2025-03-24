@@ -140,7 +140,7 @@ I then went into the admin panel> clicked "Agent" tab> clicked  “Add New Agent
 <img src="https://i.imgur.com/sN3IyaT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Configuring Users: To configure the Users in the osTicket system, I made sure I was logged in as an Admin. I then went to the Agent Panel> click “Users” Tab > click “Add User” In this tutorial, I created one User named Karen Ramos.
 </p>
 <br />
 
